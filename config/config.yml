@@ -1,0 +1,7 @@
+data_sources:
+  kafka_topic: txn_topic
+enrichment:
+  model: llama2:7b
+  quantize: 4bit
+graph:
+  batch_size: 100

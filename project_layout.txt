@@ -1,0 +1,17 @@
+mcp-fraud-detection/
+├── agents/
+│   ├── data_extractor.py
+│   ├── semantic_enricher.py
+│   └── graph_writer.py
+├── orchestrator/
+│   └── mcp_workflow.py
+├── config/
+│   ├── config.yml
+│   └── secrets.example.env
+├── docker/
+│   ├── Dockerfile
+│   └── docker-compose.yml
+├── tests/
+│   └── test_agents.py
+├── requirements.txt
+└── README.md
