@@ -154,6 +154,6 @@ This project is licensed under the **MIT License**.
 
 _Sriram Gona_  
 - GitHub: [@sriram-gona-01](https://github.com/sriram-gona-01)  
-- Email: sriram.gona.01@gmail.com  
+- Email: sriram.genie@gmail.com  
 
 Feel free to open issues or reach out with questions, suggestions, or feedback!
